@@ -1,0 +1,2 @@
+webpackJsonp([3],{"8/l0":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("router-view")],1)},staticRenderFns:[]};var i=n("C7Lr")({name:"otcs"},r,!1,function(e){n("jirI")},null,null);t.default=i.exports},jirI:function(e,t){}});
+//# sourceMappingURL=3.d3a3b5d99f3344b3aa30.js.map

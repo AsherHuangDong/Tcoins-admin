@@ -1,0 +1,2 @@
+webpackJsonp([7],{HFo7:function(e,t){},RpPb:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("router-view")],1)},staticRenderFns:[]};var u=n("VU/8")({name:"taskResource"},r,!1,function(e){n("HFo7")},null,null);t.default=u.exports}});
+//# sourceMappingURL=7.57dc69eb7ab918a6a07a.js.map
